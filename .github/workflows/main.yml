@@ -1,4 +1,4 @@
-name: Example workflow for S3 Deploy
+name: S3 Deploy
 on: [push]
 jobs:
   run:
@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Deploy
-        uses: reggionick/s3-deploy@v3
+        uses: Reggionick/s3-deploy@v3.1.1
         with:
           folder: build
           bucket: ${{ secrets.S3_BUCKET }}
