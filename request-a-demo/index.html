@@ -49,7 +49,7 @@
 
 
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="app-css" href="https://www.scantrust.com/wp-content/themes/site/static/css/app.f7f14e4363fad777aaf1.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="app-css" href="https://www.scantrust.com/wp-content/themes/site/static/css/app.8a8b690ab3a49da0d92a.css?ver=1" type="text/css" media="all">
 <link rel="https://api.w.org/" href="https://www.scantrust.com/wp-json/">
 <link rel="alternate" type="application/json" href="https://www.scantrust.com/wp-json/wp/v2/pages/103">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.scantrust.com/xmlrpc.php?rsd">
@@ -83,7 +83,7 @@
   <nav class="header__nav">      <div class="header__nav-item --has-sub --regular">
         <span class="header__nav-item-text">Solutions</span>
         <div class="header__sub-nav">
-<a class="header__nav-item --is-sub" href="https://www.scantrust.com/product-digital-identity-secure-qr-code/">Product Digital Identity</a><a class="header__nav-item --is-sub" href="https://www.scantrust.com/anti-counterfeit-packaging/">Anti-Counterfeiting</a><a class="header__nav-item --is-sub" href="https://www.scantrust.com/supply-chain-traceability-solutions/">Supply Chain Traceability</a><a class="header__nav-item --is-sub" href="https://www.scantrust.com/enterprise-qr-product-packaging-solutions/">Customer Engagement</a>
+<a class="header__nav-item --is-sub" href="https://www.scantrust.com/product-digital-identity-secure-qr-code/">Product Digital Identity</a><a class="header__nav-item --is-sub" href="https://www.scantrust.com/anti-counterfeit-packaging/">Anti-Counterfeit Packaging with Secure QR Codes</a><a class="header__nav-item --is-sub" href="https://www.scantrust.com/supply-chain-traceability-solutions/">Supply Chain Traceability Solutions</a><a class="header__nav-item --is-sub" href="https://www.scantrust.com/enterprise-qr-product-packaging-solutions/">Customer Engagement</a>
 </div>
       </div>
           <a class="header__nav-item --regular" href="https://www.scantrust.com/case-studies/">
@@ -139,7 +139,7 @@
             <label class="form-field__label" for="firstname">First Name<span class="form-field__required">*</span></label>
             
               
-                <input class="form-field__input" type="text" name="firstname" id="firstname">
+                <input class="form-field__input" data-input type="text" name="firstname" id="firstname">
 
                                                               <span class="form-field__error" data-required>Please complete this required field.</span>
                                                       </label>
@@ -147,7 +147,7 @@
             <label class="form-field__label" for="lastname">Last Name<span class="form-field__required">*</span></label>
             
               
-                <input class="form-field__input" type="text" name="lastname" id="lastname">
+                <input class="form-field__input" data-input type="text" name="lastname" id="lastname">
 
                                                               <span class="form-field__error" data-required>Please complete this required field.</span>
                                                       </label>
@@ -156,7 +156,7 @@
             <label class="form-field__label" for="email">Email<span class="form-field__required">*</span></label>
             <p class="form-field__description">You&#8217;ll need to provide a company email address. We don&#8217;t accept free email providers due to problems with spam. If this is a problem, send an email to contact@scantrust.com</p>
               
-                <input class="form-field__input" type="text" name="email" id="email">
+                <input class="form-field__input" data-input type="text" name="email" id="email">
 
                                                               <span class="form-field__error" data-required>Please complete this required field.</span>
                                                           <span class="form-field__error" data-email>Email must be formatted correctly.</span>
@@ -166,21 +166,22 @@
             <label class="form-field__label" for="phone">Phone number</label>
             
               
-                <input class="form-field__input" type="text" name="phone" id="phone">
+                <input class="form-field__input" data-input type="text" name="phone" id="phone">
 
                                                     </label>
         </div>
 <div class="form-group">          <label class="form-field" data-required>
             <label class="form-field__label" for="solution_interest">Solution interest<span class="form-field__required">*</span></label>
             
-              
-                <select class="form-field__input" name="solution_interest" id="solution_interest">
-                  <option value="" disabled selected>Please Select</option>
-                                      <option value="Supply chain traceability">Supply chain traceability</option>
-                                      <option value="Customer engagement">Customer engagement</option>
-                                      <option value="Anti-counterfeiting">Anti-counterfeiting</option>
-                                      <option value="Custom solutions">Custom solutions</option>
-                                  </select>
+                              <div class="form-field__input -select">
+                  <select class="form-field__select" data-input name="solution_interest" id="solution_interest">
+                    <option value="" disabled selected>Please Select</option>
+                                          <option value="Supply chain traceability">Supply chain traceability</option>
+                                          <option value="Customer engagement">Customer engagement</option>
+                                          <option value="Anti-counterfeiting">Anti-counterfeiting</option>
+                                          <option value="Custom solutions">Custom solutions</option>
+                                      </select>
+                </div>
 
                                                               <span class="form-field__error" data-required>Please select an option from the dropdown menu.</span>
                                                       </label>
@@ -189,14 +190,14 @@
             <label class="form-field__label" for="additional_comments">Additional comments</label>
             
               
-                <textarea class="form-field__input" name="additional_comments" id="additional_comments" rows="2"></textarea>
+                <textarea class="form-field__input" data-input name="additional_comments" id="additional_comments" rows="2"></textarea>
 
                                                     </label>
         </div>
 <div class="form-group"></div>                                                      <div class="form__text"><p>We will only contact you about our products and services. For more information, including how to unsubscribe, see our <a href="https://www.scantrust.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy&nbsp;</a></p></div>
                 <div>
         <button class="s-button --blue">Talk to an expert</button>
-        <p class="form__error" data-email>There was an unknown error submitting the form, please try again later.</p>
+        <p class="form__error" data-email>Please use a company email address</p>
       </div>
     </form>
   </div>
@@ -266,7 +267,7 @@ Singapore 117439</p>
     </div>
   </div>
 </footer>      		<span class="ssp-id" style="display:none">103</span>
-		<script type="text/javascript" src="https://www.scantrust.com/wp-content/themes/site/static/js/app.f7f14e4363fad777aaf1.js?ver=1" id="app-js"></script>
+		<script type="text/javascript" src="https://www.scantrust.com/wp-content/themes/site/static/js/app.8a8b690ab3a49da0d92a.js?ver=1" id="app-js"></script>
 
       </body>
 </html>
