@@ -71,24 +71,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-digitalization/</loc>
-		<lastmod>2022-07-27T19:55:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/scantrust-digitalization-snippy.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/coronavirus-test-kits-are-being-faked-like-the-virus-itself-this-has-to-be-stopped/</loc>
 		<lastmod>2022-08-02T19:54:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Fake-covid-19-anti-counterfeit-scantrust-sq.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/what-is-the-best-anti-counterfeiting-solution/</loc>
-		<lastmod>2022-08-03T11:25:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/the-best-anti-counterfeiting.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -103,20 +89,6 @@
 		<lastmod>2022-08-04T09:17:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Digitized-physical-products.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/anti-counterfeiting-in-2021-from-blockchain-and-holograms-to-copy-detection-patterns/</loc>
-		<lastmod>2022-08-04T11:37:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/tags-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/how-to-optimize-data-collection-with-smart-packaging/</loc>
-		<lastmod>2022-08-08T10:55:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/optimize-connected-packaging-data.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -155,17 +127,45 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.scantrust.com/food-traceability-solutions-striketwosummit/</loc>
+		<lastmod>2022-08-08T13:36:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/strike2summit-scantrust.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-digitalization/</loc>
+		<lastmod>2022-08-09T08:51:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/scantrust-digitalization-snippy.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-the-best-anti-counterfeiting-solution/</loc>
+		<lastmod>2022-08-09T09:04:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/the-best-anti-counterfeiting.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/how-to-optimize-data-collection-with-smart-packaging/</loc>
+		<lastmod>2022-08-09T09:13:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/optimize-connected-packaging-data.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
-		<lastmod>2022-08-08T13:32:24+00:00</lastmod>
+		<lastmod>2022-08-09T09:16:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/food-traceability-solutions-striketwosummit/</loc>
-		<lastmod>2022-08-08T13:36:20+00:00</lastmod>
+		<loc>https://www.scantrust.com/anti-counterfeiting-in-2021-from-blockchain-and-holograms-to-copy-detection-patterns/</loc>
+		<lastmod>2022-08-09T09:18:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/strike2summit-scantrust.jpeg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/tags-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
