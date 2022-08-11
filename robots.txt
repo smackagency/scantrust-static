@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.gigglingsquid.com/sitemap_index.xml
+Sitemap: https://www.scantrust.com/sitemap_index.xml
