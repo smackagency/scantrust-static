@@ -1,48 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.scantrust.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.scantrust.com/case-study/anti-counterfeiting-nrg-wind-tools-case-study/</loc>
-		<lastmod>2022-07-20T11:18:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/NRG-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-study/anti-counterfeiting-tax-stamps-inase-case-study/</loc>
-		<lastmod>2022-07-20T12:27:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/INASE-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-study/qr-code-machine-spare-parts-information-bhs/</loc>
-		<lastmod>2022-08-04T12:15:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/BHS-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-study/anti-counterfeiting-exxon-mobil-motor-oil-case-study/</loc>
-		<lastmod>2022-08-04T12:16:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/exxonm-BProtect-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-study/gmo-label-qr-code-ferrara-candy-case-study/</loc>
-		<lastmod>2022-08-04T12:23:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Ferrara-Scantrust-0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-study/qr-codes-for-marketing-campaigns/</loc>
-		<lastmod>2022-08-04T12:24:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ISDIN-scantrust-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-study/cpg-brand-loyalty-through-connected-packaging-knorr-case-study/</loc>
 		<lastmod>2022-08-08T13:20:07+00:00</lastmod>
 		<image:image>
@@ -117,6 +75,48 @@
 		<lastmod>2022-08-11T12:35:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ihealth-scantrust-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-study/qr-codes-for-marketing-campaigns/</loc>
+		<lastmod>2022-08-12T09:43:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ISDIN-scantrust-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-study/qr-code-machine-spare-parts-information-bhs/</loc>
+		<lastmod>2022-08-12T09:44:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/BHS-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-study/gmo-label-qr-code-ferrara-candy-case-study/</loc>
+		<lastmod>2022-08-12T09:45:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Ferrara-Scantrust-0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-study/anti-counterfeiting-tax-stamps-inase-case-study/</loc>
+		<lastmod>2022-08-12T09:45:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/INASE-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-study/anti-counterfeiting-nrg-wind-tools-case-study/</loc>
+		<lastmod>2022-08-12T09:45:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/NRG-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-study/anti-counterfeiting-exxon-mobil-motor-oil-case-study/</loc>
+		<lastmod>2022-08-12T09:45:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/exxonm-BProtect-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
