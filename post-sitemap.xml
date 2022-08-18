@@ -36,13 +36,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
-		<lastmod>2022-08-09T09:16:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/national-bioengineered-food-disclosure-standard-qr-codes/</loc>
 		<lastmod>2022-08-09T10:03:29+00:00</lastmod>
 		<image:image>
@@ -187,6 +180,13 @@
 		<lastmod>2022-08-11T11:58:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/optimize-connected-packaging-data.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
+		<lastmod>2022-08-17T09:04:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
