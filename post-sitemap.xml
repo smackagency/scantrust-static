@@ -29,13 +29,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-the-best-anti-counterfeiting-solution/</loc>
-		<lastmod>2022-08-09T09:04:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/the-best-anti-counterfeiting.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/national-bioengineered-food-disclosure-standard-qr-codes/</loc>
 		<lastmod>2022-08-09T10:03:29+00:00</lastmod>
 		<image:image>
@@ -187,6 +180,13 @@
 		<lastmod>2022-08-30T14:17:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Builder-B2B-distribution-model.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-the-best-anti-counterfeiting-solution/</loc>
+		<lastmod>2022-09-06T12:31:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/the-best-anti-counterfeiting.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
