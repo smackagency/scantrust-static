@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
-		<lastmod>2022-08-08T12:02:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/are-qr-codes-safe/</loc>
 		<lastmod>2022-08-08T12:50:37+00:00</lastmod>
 		<image:image>
@@ -162,13 +155,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
-		<lastmod>2022-08-17T09:04:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/what-is-the-grey-market-how-does-it-affect-brands-and-consumers/</loc>
 		<lastmod>2022-08-30T09:12:26+00:00</lastmod>
 		<image:image>
@@ -194,6 +180,20 @@
 		<lastmod>2022-09-15T13:13:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/09/AdobeStock_328999808-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
+		<lastmod>2022-09-23T13:51:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
+		<lastmod>2022-09-23T13:56:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
