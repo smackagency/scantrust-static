@@ -36,13 +36,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/scantrust-case-study-liforme-yoga-mats/</loc>
-		<lastmod>2022-09-22T12:06:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Liforme-scantrust-sq.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/gmo-label-qr-code-ferrara-candy-case-study/</loc>
 		<lastmod>2022-09-22T12:07:22+00:00</lastmod>
 		<image:image>
@@ -117,6 +110,13 @@
 		<lastmod>2022-09-29T07:17:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-scantrust.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/scantrust-case-study-liforme-yoga-mats/</loc>
+		<lastmod>2022-10-07T09:29:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Liforme-scantrust-sq.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
