@@ -22,13 +22,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-and-product-traceability-for-baias-wine/</loc>
-		<lastmod>2022-09-22T12:04:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/baias-wines-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-tax-stamps-inase-case-study/</loc>
 		<lastmod>2022-09-22T12:05:59+00:00</lastmod>
 		<image:image>
@@ -78,13 +71,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/qr-code-track-and-trace-anti-counterfeit-packaging/</loc>
-		<lastmod>2022-09-22T12:13:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/05/remy-cointreau-track-and-trace-anti-counterfeiting.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/cpg-brand-loyalty-through-connected-packaging-knorr-case-study/</loc>
 		<lastmod>2022-09-22T12:14:42+00:00</lastmod>
 		<image:image>
@@ -99,24 +85,38 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/qr-code-machine-spare-parts-information-bhs/</loc>
-		<lastmod>2022-09-29T07:16:41+00:00</lastmod>
+		<loc>https://www.scantrust.com/case-studies/scantrust-case-study-liforme-yoga-mats/</loc>
+		<lastmod>2022-10-07T09:29:47+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/BHS-scantrust.jpg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Liforme-scantrust-sq.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/qr-code-track-and-trace-anti-counterfeit-packaging/</loc>
+		<lastmod>2022-10-10T12:30:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/05/remy-cointreau-track-and-trace-anti-counterfeiting.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://www.scantrust.com/case-studies/supply-chain-traceability-serialized-qr-codes/</loc>
-		<lastmod>2022-09-29T07:17:10+00:00</lastmod>
+		<lastmod>2022-10-10T12:30:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-scantrust.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/scantrust-case-study-liforme-yoga-mats/</loc>
-		<lastmod>2022-10-07T09:29:47+00:00</lastmod>
+		<loc>https://www.scantrust.com/case-studies/qr-code-machine-spare-parts-information-bhs/</loc>
+		<lastmod>2022-10-10T12:30:43+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Liforme-scantrust-sq.jpg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/BHS-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-and-product-traceability-for-baias-wine/</loc>
+		<lastmod>2022-10-10T12:31:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/baias-wines-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
