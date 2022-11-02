@@ -162,13 +162,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
-		<lastmod>2022-09-23T13:56:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/anti-counterfeiting-in-2021-from-blockchain-and-holograms-to-copy-detection-patterns/</loc>
 		<lastmod>2022-10-07T09:35:14+00:00</lastmod>
 		<image:image>
@@ -194,6 +187,13 @@
 		<lastmod>2022-10-07T10:20:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/scantrust-digitalization-snippy.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
+		<lastmod>2022-11-01T13:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
