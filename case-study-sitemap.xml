@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/counterfeit-prevention-and-consumer-engagement-with-tamper-evident-secure-qr-codes-for-motul/</loc>
-		<lastmod>2022-10-24T12:16:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/Motul-Case-study.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-with-qr-codes-for-marchesi-antinori/</loc>
 		<lastmod>2022-10-24T12:19:11+00:00</lastmod>
 		<image:image>
@@ -131,6 +124,13 @@
 		<lastmod>2022-10-26T09:04:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ihealth-scantrust-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/counterfeit-prevention-and-consumer-engagement-with-tamper-evident-secure-qr-codes-for-motul/</loc>
+		<lastmod>2022-11-01T08:58:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/screen-motul-sml.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
