@@ -183,13 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
-		<lastmod>2022-11-06T07:32:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/Telmont.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
 		<lastmod>2022-11-08T08:52:56+00:00</lastmod>
 		<image:image>
@@ -201,6 +194,13 @@
 		<lastmod>2022-11-09T07:53:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
+		<lastmod>2022-11-10T09:31:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
