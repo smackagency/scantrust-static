@@ -50,13 +50,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
-		<lastmod>2022-08-09T13:15:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/improving-consumer-insights-through-digitalization/</loc>
 		<lastmod>2022-08-11T08:39:16+00:00</lastmod>
 		<image:image>
@@ -176,13 +169,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
-		<lastmod>2022-11-01T13:08:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/webinar-why-secure-qr-codes-are-the-future-of-anti-counterfeiting/</loc>
 		<lastmod>2022-11-03T12:33:54+00:00</lastmod>
 		<image:image>
@@ -201,6 +187,20 @@
 		<lastmod>2022-11-06T07:32:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/Telmont.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
+		<lastmod>2022-11-08T08:52:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
+		<lastmod>2022-11-09T07:53:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
