@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://www.scantrust.com/post-sitemap.xml</loc>
-		<lastmod>2022-11-10T09:31:34+00:00</lastmod>
+		<lastmod>2022-11-22T11:00:37+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.scantrust.com/page-sitemap.xml</loc>
@@ -10,14 +10,6 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://www.scantrust.com/case-study-sitemap.xml</loc>
-		<lastmod>2022-11-01T08:58:35+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://www.scantrust.com/industry-sitemap.xml</loc>
-		<lastmod>2022-11-01T08:58:35+00:00</lastmod>
-	</sitemap>
-	<sitemap>
-		<loc>https://www.scantrust.com/use-sitemap.xml</loc>
 		<lastmod>2022-11-01T08:58:35+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
