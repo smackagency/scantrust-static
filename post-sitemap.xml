@@ -127,13 +127,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-the-best-anti-counterfeiting-solution/</loc>
-		<lastmod>2022-09-06T12:31:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/the-best-anti-counterfeiting.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
 		<lastmod>2022-09-23T13:51:22+00:00</lastmod>
 		<image:image>
@@ -205,9 +198,16 @@
 	</url>
 	<url>
 		<loc>https://www.scantrust.com/digital-product-passports-dpp-eu-product-labeling-regulations/</loc>
-		<lastmod>2022-11-22T11:00:37+00:00</lastmod>
+		<lastmod>2022-11-23T09:39:19+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/AdobeStock_353675925-scaled.jpeg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/AdobeStock_353675925-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-the-best-anti-counterfeiting-solution/</loc>
+		<lastmod>2022-11-25T13:45:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/bags-fakes.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
