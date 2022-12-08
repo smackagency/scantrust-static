@@ -127,13 +127,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/qr-code-anti-counterfeiting-solutions/</loc>
-		<lastmod>2022-09-23T13:51:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/anti-counterfeiting-in-2021-from-blockchain-and-holograms-to-copy-detection-patterns/</loc>
 		<lastmod>2022-10-07T09:35:14+00:00</lastmod>
 		<image:image>
@@ -208,6 +201,13 @@
 		<lastmod>2022-11-28T08:00:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/bags-fakes.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/secure-qr-code-anti-counterfeiting-solutions/</loc>
+		<lastmod>2022-12-08T11:19:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
