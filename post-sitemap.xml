@@ -183,13 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/digital-product-passports-dpp-eu-product-labeling-regulations/</loc>
-		<lastmod>2022-11-23T09:39:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/AdobeStock_353675925-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/why-secure-qr-codes-are-a-necessity-for-complex-supply-chains/</loc>
 		<lastmod>2022-11-28T07:53:12+00:00</lastmod>
 		<image:image>
@@ -208,6 +201,13 @@
 		<lastmod>2022-12-08T11:19:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/digital-product-passports-dpp-eu-product-labeling-regulations/</loc>
+		<lastmod>2022-12-19T12:39:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/AdobeStock_353675925-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
