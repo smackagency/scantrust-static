@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cms.scantrust.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.scantrust.com/case-studies/scantrust-case-study-dealing-with-counterfeit-seed-products-establishing-loyalty/</loc>
-		<lastmod>2022-09-22T12:00:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/biotechnology-seeds-scantrust-counterfeit-sq.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/cpg-brand-loyalty-through-connected-packaging-knorr-case-study/</loc>
 		<lastmod>2022-10-26T08:16:08+00:00</lastmod>
 		<image:image>
@@ -78,24 +71,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-and-product-traceability-for-baias-wine/</loc>
-		<lastmod>2022-10-26T08:36:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/baias-wines-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-nrg-wind-tools-case-study/</loc>
 		<lastmod>2022-10-26T08:36:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/NRG-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-dupont-water-filters-case-study/</loc>
-		<lastmod>2022-10-26T08:48:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Dupont-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -113,13 +92,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/counterfeit-prevention-and-consumer-engagement-with-tamper-evident-secure-qr-codes-for-motul/</loc>
-		<lastmod>2022-11-01T08:58:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/screen-motul-sml.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-with-qr-codes-for-marchesi-antinori/</loc>
 		<lastmod>2022-11-27T17:08:37+00:00</lastmod>
 		<image:image>
@@ -131,6 +103,34 @@
 		<lastmod>2022-11-28T13:29:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/casa-de-moneda.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/counterfeit-prevention-and-consumer-engagement-with-tamper-evident-secure-qr-codes-for-motul/</loc>
+		<lastmod>2022-12-29T13:17:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/screen-motul-sml.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-dupont-water-filters-case-study/</loc>
+		<lastmod>2022-12-29T13:19:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Dupont-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-and-product-traceability-for-baias-wine/</loc>
+		<lastmod>2022-12-29T13:23:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/baias-wines-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/scantrust-case-study-dealing-with-counterfeit-seed-products-establishing-loyalty/</loc>
+		<lastmod>2022-12-29T13:26:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/biotechnology-seeds-scantrust-counterfeit-sq.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
