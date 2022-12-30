@@ -176,13 +176,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
-		<lastmod>2022-11-10T09:31:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/why-secure-qr-codes-are-a-necessity-for-complex-supply-chains/</loc>
 		<lastmod>2022-11-28T07:53:12+00:00</lastmod>
 		<image:image>
@@ -215,6 +208,13 @@
 		<lastmod>2022-12-29T13:42:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/AdobeStock_353675925-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
+		<lastmod>2022-12-30T10:39:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
