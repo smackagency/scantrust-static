@@ -127,13 +127,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/anti-counterfeiting-in-2021-from-blockchain-and-holograms-to-copy-detection-patterns/</loc>
-		<lastmod>2022-10-07T09:35:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/tags-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/marketing-managers-improve-customer-loyalty-through-digitalization/</loc>
 		<lastmod>2022-10-07T10:00:11+00:00</lastmod>
 		<image:image>
@@ -215,6 +208,13 @@
 		<lastmod>2022-12-30T11:23:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/AGEC-law-Decree-2022-748-min.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/anti-counterfeiting-in-2021-from-blockchain-and-holograms-to-copy-detection-patterns/</loc>
+		<lastmod>2022-12-30T15:59:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/tags-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
