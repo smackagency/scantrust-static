@@ -183,13 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/secure-qr-code-anti-counterfeiting-solutions/</loc>
-		<lastmod>2022-12-08T11:19:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/digital-product-passports-dpp-eu-product-labeling-regulations/</loc>
 		<lastmod>2022-12-29T13:42:00+00:00</lastmod>
 		<image:image>
@@ -215,6 +208,13 @@
 		<lastmod>2023-01-10T04:25:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/secure-qr-code-anti-counterfeiting-solutions/</loc>
+		<lastmod>2023-01-12T04:41:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
