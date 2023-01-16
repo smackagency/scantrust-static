@@ -204,17 +204,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
-		<lastmod>2023-01-10T04:25:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/secure-qr-code-anti-counterfeiting-solutions/</loc>
 		<lastmod>2023-01-12T04:41:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
+		<lastmod>2023-01-16T02:57:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
