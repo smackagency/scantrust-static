@@ -162,13 +162,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
-		<lastmod>2022-11-09T07:53:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/why-secure-qr-codes-are-a-necessity-for-complex-supply-chains/</loc>
 		<lastmod>2022-11-28T07:53:12+00:00</lastmod>
 		<image:image>
@@ -222,6 +215,13 @@
 		<lastmod>2023-01-18T09:28:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/01/AdobeStock_36602873-1-min.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
+		<lastmod>2023-01-30T10:10:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/06/dynamic-QR-code-article.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
