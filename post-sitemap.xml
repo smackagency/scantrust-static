@@ -155,13 +155,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
-		<lastmod>2022-11-08T08:52:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/why-secure-qr-codes-are-a-necessity-for-complex-supply-chains/</loc>
 		<lastmod>2022-11-28T07:53:12+00:00</lastmod>
 		<image:image>
@@ -197,13 +190,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/secure-qr-code-anti-counterfeiting-solutions/</loc>
-		<lastmod>2023-01-12T04:41:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
 		<lastmod>2023-01-18T04:54:47+00:00</lastmod>
 		<image:image>
@@ -229,6 +215,20 @@
 		<lastmod>2023-02-03T13:56:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/02/Frame-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/secure-qr-code-anti-counterfeiting-solutions/</loc>
+		<lastmod>2023-02-09T20:30:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/AC-image-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
+		<lastmod>2023-02-09T20:32:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
