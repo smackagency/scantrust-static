@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.scantrust.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.scantrust.com/case-studies/cpg-brand-loyalty-through-connected-packaging-knorr-case-study/</loc>
+		<lastmod>2022-10-26T08:16:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/knorr-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/qr-code-track-and-trace-anti-counterfeit-packaging/</loc>
+		<lastmod>2022-10-26T08:22:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/05/remy-cointreau-track-and-trace-anti-counterfeiting.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/supply-chain-traceability-serialized-qr-codes/</loc>
+		<lastmod>2022-10-26T08:24:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-scantrust.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/qr-codes-for-marketing-campaigns/</loc>
+		<lastmod>2022-10-26T08:24:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ISDIN-scantrust-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-for-duesberg-medical-gloves-case-study/</loc>
 		<lastmod>2022-10-26T08:28:37+00:00</lastmod>
 		<image:image>
@@ -19,6 +47,13 @@
 		<lastmod>2022-10-26T08:29:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/akzonobel-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/gmo-label-qr-code-ferrara-candy-case-study/</loc>
+		<lastmod>2022-10-26T08:30:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Ferrara-Scantrust-0.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -43,10 +78,31 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-for-government-with-the-department-of-motor-vehicles/</loc>
-		<lastmod>2022-11-28T13:29:29+00:00</lastmod>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-with-qr-codes-for-marchesi-antinori/</loc>
+		<lastmod>2022-11-27T17:08:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/casa-de-moneda.jpg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/Ontwerp-zonder-titel-3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/counterfeit-prevention-and-consumer-engagement-with-tamper-evident-secure-qr-codes-for-motul/</loc>
+		<lastmod>2022-12-29T13:17:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/screen-motul-sml.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-dupont-water-filters-case-study/</loc>
+		<lastmod>2022-12-29T13:19:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Dupont-scantrust.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-and-product-traceability-for-baias-wine/</loc>
+		<lastmod>2022-12-29T13:23:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/baias-wines-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -57,73 +113,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/catena-di-fornitura-tracciabilita-codici-qr-serializzati/</loc>
-		<lastmod>2023-02-13T06:21:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-scantrust.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/prodotti-di-alta-qualita-per-la-melitta/</loc>
-		<lastmod>2023-02-13T06:22:34+00:00</lastmod>
+		<loc>https://www.scantrust.com/case-studies/high-quality-product-insights-for-melitta/</loc>
+		<lastmod>2023-01-11T08:55:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/01/melitta.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/prevenzione-della-contraffazione-e-impegno-dei-consumatori-con-codici-qr-sicuri-per-motul/</loc>
-		<lastmod>2023-02-13T06:22:55+00:00</lastmod>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-for-government-with-the-department-of-motor-vehicles/</loc>
+		<lastmod>2023-02-07T08:27:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/screen-motul-sml.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/codice-qr-tracciabile-e-rintracciabile-imballaggio-anticontraffazione/</loc>
-		<lastmod>2023-02-13T06:23:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/05/remy-cointreau-track-and-trace-anti-counterfeiting.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/codici-qr-per-campagne-di-marketing/</loc>
-		<lastmod>2023-02-13T06:23:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ISDIN-scantrust-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/etichetta-gmo-qr-codice-ferrara-caramelle-caso-studio/</loc>
-		<lastmod>2023-02-13T06:23:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Ferrara-Scantrust-0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/studio-di-caso-contro-la-contraffazione-dei-filtri-per-lacqua/</loc>
-		<lastmod>2023-02-13T06:30:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/Dupont-scantrust.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/anticontraffazione-e-tracciabilita-dei-prodotti-per-baias-wine/</loc>
-		<lastmod>2023-02-13T06:36:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/baias-wines-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/anticontraffazione-con-codici-qr-per-marchesi-antinori/</loc>
-		<lastmod>2023-02-13T06:48:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/Ontwerp-zonder-titel-3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/case-studies/fidelizzazione-del-marchio-attraverso-il-packaging-connesso-studio-di-caso-knorr/</loc>
-		<lastmod>2023-02-13T07:03:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/knorr-scantrust.jpg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/casa-de-moneda.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
