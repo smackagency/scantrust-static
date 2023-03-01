@@ -190,13 +190,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
-		<lastmod>2023-01-18T04:54:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/fda-food-traceability-requirements-how-will-fsma-change-the-fdas-recordkeeping-requirements/</loc>
 		<lastmod>2023-01-18T09:28:15+00:00</lastmod>
 		<image:image>
@@ -229,6 +222,13 @@
 		<lastmod>2023-02-09T20:32:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
+		<lastmod>2023-03-01T02:42:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/wine-Telmont.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
