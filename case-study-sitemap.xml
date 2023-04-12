@@ -71,13 +71,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/supply-chain-traceability-serialized-qr-codes/</loc>
-		<lastmod>2023-03-28T02:54:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-scantrust.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/qr-code-track-and-trace-anti-counterfeit-packaging/</loc>
 		<lastmod>2023-03-28T02:54:26+00:00</lastmod>
 		<image:image>
@@ -124,6 +117,13 @@
 		<lastmod>2023-03-28T02:57:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/07/ihealth-scantrust-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/supply-chain-traceability-serialized-qr-codes/</loc>
+		<lastmod>2023-04-12T08:18:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-Updated_1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
