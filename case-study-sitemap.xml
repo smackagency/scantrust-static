@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-with-qr-codes-for-marchesi-antinori/</loc>
-		<lastmod>2023-03-27T14:29:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/Ontwerp-zonder-titel-3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/case-studies/cpg-brand-loyalty-through-connected-packaging-knorr-case-study/</loc>
 		<lastmod>2023-03-27T14:30:43+00:00</lastmod>
 		<image:image>
@@ -124,6 +117,13 @@
 		<lastmod>2023-04-12T08:18:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/Varta-Updated_1-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/case-studies/anti-counterfeiting-with-qr-codes-for-marchesi-antinori/</loc>
+		<lastmod>2023-04-17T11:38:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/10/scantrust-antinori-eu-wine-label.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
