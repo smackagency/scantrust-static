@@ -225,17 +225,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
-		<lastmod>2023-03-28T07:25:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/e-label-composite.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/specific-rules-regarding-the-new-eu-wine-regulations/</loc>
 		<lastmod>2023-04-17T07:23:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/03/Frame-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/</loc>
+		<lastmod>2023-04-26T16:35:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/e-label-composite.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
