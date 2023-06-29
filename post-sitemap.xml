@@ -211,24 +211,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
-		<lastmod>2023-02-09T20:32:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/what-is-a-dynamic-qr-code/</loc>
 		<lastmod>2023-03-23T12:59:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/03/dynamic-QR-Scantrust01-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.scantrust.com/eu-wine-label-requirements-2021-2117/</loc>
-		<lastmod>2023-05-26T13:29:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/e-label-composite.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -239,8 +225,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.scantrust.com/product-traceability-definitive-guide/</loc>
+		<lastmod>2023-06-29T09:00:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/08/product-traceability-image.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/eu-wine-label-requirements-2021-2117/</loc>
+		<lastmod>2023-06-29T09:03:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/e-label-composite.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.scantrust.com/how-to-qr-codes-elabel-eu-wine-labelling-law/</loc>
-		<lastmod>2023-06-26T12:55:11+00:00</lastmod>
+		<lastmod>2023-06-29T09:05:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/04/EU-wine-label-regulations.png</image:loc>
 		</image:image>
