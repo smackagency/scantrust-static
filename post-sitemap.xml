@@ -232,17 +232,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.scantrust.com/eu-wine-label-requirements-2021-2117/</loc>
-		<lastmod>2023-07-13T01:30:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/e-label-composite.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.scantrust.com/specific-rules-regarding-the-new-eu-wine-regulations/</loc>
 		<lastmod>2023-07-13T01:35:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/03/Article-template-802x802-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.scantrust.com/eu-wine-label-requirements-2021-2117/</loc>
+		<lastmod>2023-07-25T11:06:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/11/e-label-composite.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
