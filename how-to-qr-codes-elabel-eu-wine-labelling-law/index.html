@@ -42,7 +42,7 @@
 	<meta property="og:url" content="https://www.scantrust.com/how-to-qr-codes-elabel-eu-wine-labelling-law/">
 	<meta property="og:site_name" content="Scantrust">
 	<meta property="article:published_time" content="2023-05-04T13:45:51+00:00">
-	<meta property="article:modified_time" content="2023-07-13T01:26:46+00:00">
+	<meta property="article:modified_time" content="2023-07-27T13:25:08+00:00">
 	<meta property="og:image" content="https://www.scantrust.com/wp-content/uploads/2023/04/EU-wine-label-regulations-1024x1024.png">
 	<meta property="og:image:width" content="1024">
 	<meta property="og:image:height" content="1024">
@@ -243,13 +243,16 @@ _iub.csConfiguration = {"cookiePolicyInOtherWindow":true,"countryDetection":true
 <p>The goal of this step is to have all the wine product information you&#8217;ll need to input into your software labeling solution (e-label solution) organized. This can be done in a spreadsheet or a database. The following information includes both recommended (optional) and compulsory information for digital wine labels:</p>
 <p><b>Product information</b></p>
 <ul>
-<li aria-level="1">Wine type</li>
+<li aria-level="1">Wine variety</li>
+<li aria-level="1">Nutritional information</li>
+<li aria-level="1">Allergen declaration</li>
 <li aria-level="1">Origin country</li>
+<li aria-level="1">Importer, bottler and producer</li>
 <li aria-level="1">Geographical Indications</li>
 <li aria-level="1">Vintage year</li>
 <li aria-level="1">Alcohol by Volume percentage (ABV)</li>
 <li aria-level="1">Net quantity in milliliters</li>
-<li aria-level="1">Wine sweetness</li>
+<li aria-level="1">Sugar content</li>
 <li aria-level="1">Vine variety specific to the vintage</li>
 <li aria-level="1">Product description</li>
 <li aria-level="1">Date of expiration</li>
@@ -257,14 +260,19 @@ _iub.csConfiguration = {"cookiePolicyInOtherWindow":true,"countryDetection":true
 <p><b>Serving sizes</b></p>
 <p>The law requires nutritional and energy information based on a 100ml serving. You can optionally also provide information based on another serving size. Typically the more popular wines, red, white, and rosé are served in 125ml, 175ml, and 250ml amounts. The standard serving across bars in Europe is 125ml, but you may also want country-specific ones. Besides the required 100ml serving size declarations, we recommend also displaying them for a standard serving size as this information can be more useful for customers.</p>
 <p><b>Date of expiration</b></p>
-<p>For wines that have been de-alcoholized with an ABV less than 10%, you&#8217;ll need to provide a date of minimum durability, or an expiration date. This is referred to in <a href="https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/">regulation (EU) 2021/2117.</a></p>
+<p>For wines that have been (partially) de-alcoholized with an ABV less than 10%, you&#8217;ll need to provide a date of minimum durability, or an expiration date. This is referred to in <a href="https://www.scantrust.com/wine-label-requirements-and-e-u-common-agricultural-policy-reform-2023/">regulation (EU) 2021/2117.</a></p>
 <p><b>Ingredients</b></p>
-<p>Ingredients must be listed in descending order of weight on the e-label, so you should organize your information this way and as indicated in <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R1169&amp;qid=1683134982330">Article 18 of regulation (EU) 1169/2011</a>.</p>
-<p>Additives should be organized by category, and if your additives vary batch to batch, include additives even if they are only possibly present in the product.</p>
+<p>Ingredients must be listed in descending order of weight on the e-label, so you should organize your information this way and as indicated in <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R1169-20180101">Article 18 of regulation (EU) 1169/2011</a>. Additives should be organized by category.</p>
 <p><b>Nutritional facts</b></p>
 <p>You’ll need to prepare the following nutritional facts for each wine product:</p>
 <ul>
 <li aria-level="1">Energy (may or may not be auto-calculated by your e-label solution)</li>
+<li aria-level="1">
+<p class="p1">Saturates</p>
+</li>
+<li aria-level="1">
+<p class="p1">Sugars</p>
+</li>
 <li aria-level="1">Fat</li>
 <li aria-level="1">Carbohydrates</li>
 <li aria-level="1">Protein</li>
@@ -272,22 +280,23 @@ _iub.csConfiguration = {"cookiePolicyInOtherWindow":true,"countryDetection":true
 </ul>
 <p>Your e-label solution should provide a calculator for energy, though you can specify energy directly yourself. More on those methods will be explained in the next section.</p>
 <p><b>Allergens and intolerances</b><br>
-Any allergens or intolerances must be printed on the physical label and, if you are using and e-label or digital label solution, those must be displayed there as well. See (Article 21(1)(b) of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R1169&amp;qid=1683134982330">regulation (EU) 1169/2011)</a>.</p>
+Any allergens or intolerances must be printed on the physical label and, if you are using and e-label or digital label solution, those must be displayed there as well. See (Article 21(1)(b) of <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R1169-20180101">regulation (EU) 1169/2011)</a>.</p>
 <h3>Common questions about energy, ingredients, and additives</h3>
 <p><b>How do you calculate energy?</b></p>
 <p>According to the regulation there are two acceptable methods of calculating energy:</p>
 <ul>
 <li aria-level="1">Method 1:  Formula calculator with conversion factors based on sugar, alcohol, and a few other parameters.</li>
-<li aria-level="1">Method 2: Using a general average value per wine type, such as red-dry, sparkling-brute etc. The law provides this table.</li>
+<li aria-level="1">Method 2: Using a general average value per wine type, such as red-dry, sparkling-brute etc. The table is provided in <a href="https://food.ec.europa.eu/system/files/2018-03/fs_labelling-nutrition_legis_alcohol-self-regulatory-proposal_annex-wine-en.pdf">this self regulatory document </a>
+</li>
 </ul>
 <p><b>What is defined as an ingredient?</b> Ingredient means “any substance or product, including flavorings, food additives and food enzymes, and any constituent of a compound ingredient, used in the manufacture or preparation of a food and <b><i>still present in the finished product</i></b>, even if in an altered form; residues shall not be considered as ‘ingredients’” (Article 2 of (EU) 1169/2011)</p>
 <p><b>What if one of your suppliers provides you with base wines or pre-mixed ingredients which your brand incorporates into your wines? </b>The current trend is for winemakers to contractually obligate their upstream wine and/or ingredient providers to provide ingredient and additive information for such inputs to their wines. They then merge this with their own ingredient and additive information to create a final ingredient and additive list for each SKU.</p>
 <p><b>What if you are mixing older wine or vintages with unknown ingredients, i.e., champagne houses with non-vintage products which are a mix of older and newer vintages?</b> The law is still being finalized but a draft regulation that is expected to pass soon has addressed this. Based on the draft regulation, it is likely that the final law will be written in such a way as to allow wines that mix different vintages to simply have one exhaustive list of additives and ingredients.</p>
 <p><b>Additives and processing aids</b></p>
-<p>When organizing the list of additives for each SKU, keep in mind that they have to be declared with their category in the form of Category (Ingredient 1, Ingredient 2…). According to a draft regulation that is expected to be passed very soon, it is appropriate to present an exhaustive list of acidity regulators and stabilising agents that are likely to be contained in the final product. Processing aids do not have to be declared unless they cause allergies and intolerances (<a href="https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32011R1169">Article 20(b) of (EU) 1169/2011</a>). For example, yeast and bacteria are processing aids and thus do not need to be declared.</p>
-<p><b>What if additives vary from batch to batch? </b>For a list of additives specified by the law, it is acceptable to simply state that the wine “may contain” and provide an exhaustive list of additives which may be present.</p>
+<p>As from 8th December 2023, it will be authorized to indicate, in the list of ingredients of wine products, the ‘acidity regulators’ and ‘stabilizing agents’ by means of no more than three alternative ingredients, where they are similar or mutually substitutable in their function, provided that at least one of those additives be present in the final product. The expression to be used in the list of ingredients is &#8220;contains&#8230; and/ or&#8221; followed by no more than three additives.&#8221;</p>
+<p><b>What if additives vary from batch to batch? </b>This will be authorized only for additives falling under the categories &#8216;acidity regulators&#8217; and &#8216;stabilising agents&#8217; and up to no more than three alternative ingredients. The expression to be used in the list of ingredients is &#8220;contains&#8230; and/ or&#8221; followed by no more than three additives.</p>
 <p><b>What about translations? Do you need to translate the e-label to all E.U. languages?</b></p>
-<p>The law requires making e-labels available in the language(s) used in the markets the products are sold. It further states that E.U. member countries can specify the languages which e-labels must be displayed in, though none have yet.</p>
+<p>The law requires making e-labels available in the language(s) used in the markets the products are sold. It further states that E.U. member countries can specify the languages which e-labels must be displayed in.</p>
 <p>Given this, most global brands are creating translated versions of their e-labels in all 24 E.U. languages, with the language displayed depending on either the country where the e-label QR code is scanned or the language of the user’s system.</p>
 <p>Depending on your solution, you may need to organize translations of your product information and ingredients in this step. More advanced solutions with auto-translation and translation management mean you don’t have to worry about preparing this information now, and can simply review/ polish translations later.</p>
 <p>Once you have gathered the above information for each of your wine products, you can proceed to Step 2.</p>
