@@ -1,116 +1,116 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.scantrust.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://www.scantrust.com/</loc>
 		<lastmod>2023-08-17T06:57:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog/</loc>
+		<loc>https://www.scantrust.com/blog/</loc>
 		<lastmod>2022-05-05T13:38:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/scan-map/</loc>
+		<loc>https://www.scantrust.com/scan-map/</loc>
 		<lastmod>2022-07-14T09:33:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/terms/</loc>
+		<loc>https://www.scantrust.com/terms/</loc>
 		<lastmod>2022-08-09T15:38:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/case-studies/</loc>
+		<loc>https://www.scantrust.com/case-studies/</loc>
 		<lastmod>2022-09-28T08:08:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/become-calibrated-printing-partner/</loc>
+		<loc>https://www.scantrust.com/become-calibrated-printing-partner/</loc>
 		<lastmod>2023-01-20T10:19:35+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/printer-page.jpg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2022/12/printer-page.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/partners/</loc>
+		<loc>https://www.scantrust.com/partners/</loc>
 		<lastmod>2023-02-01T11:57:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/anti-counterfeiting-apps/</loc>
+		<loc>https://www.scantrust.com/anti-counterfeiting-apps/</loc>
 		<lastmod>2023-03-01T07:07:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/landing-page-creator/</loc>
+		<loc>https://www.scantrust.com/landing-page-creator/</loc>
 		<lastmod>2023-03-14T06:54:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/qr-code-management/</loc>
+		<loc>https://www.scantrust.com/qr-code-management/</loc>
 		<lastmod>2023-03-14T06:55:27+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/enterprise-qr-hero.svg</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/01/enterprise-qr-hero.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/supply-chain-workflow-apps/</loc>
+		<loc>https://www.scantrust.com/supply-chain-workflow-apps/</loc>
 		<lastmod>2023-03-14T06:59:15+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/enterprise-qr-product-packaging-solutions/</loc>
+		<loc>https://www.scantrust.com/enterprise-qr-product-packaging-solutions/</loc>
 		<lastmod>2023-03-23T03:24:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/e-label-frequently-asked-questions/</loc>
+		<loc>https://www.scantrust.com/e-label-frequently-asked-questions/</loc>
 		<lastmod>2023-03-31T10:11:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Group-1431.png</image:loc>
+			<image:loc>https://www.scantrust.com/wp-content/uploads/2023/02/Group-1431.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/product-traceability/</loc>
+		<loc>https://www.scantrust.com/product-traceability/</loc>
 		<lastmod>2023-04-03T18:53:36+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/e-label-enterprise-form/</loc>
+		<loc>https://www.scantrust.com/e-label-enterprise-form/</loc>
 		<lastmod>2023-04-18T08:10:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/webinar-en-2-eu-wine-label/</loc>
+		<loc>https://www.scantrust.com/webinar-en-2-eu-wine-label/</loc>
 		<lastmod>2023-05-15T09:23:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/about/</loc>
+		<loc>https://www.scantrust.com/about/</loc>
 		<lastmod>2023-06-07T12:04:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/enterprise-terms/</loc>
+		<loc>https://www.scantrust.com/enterprise-terms/</loc>
 		<lastmod>2023-06-09T13:03:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/e-label-overview/</loc>
+		<loc>https://www.scantrust.com/e-label-overview/</loc>
 		<lastmod>2023-06-27T08:03:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/e-label-features/</loc>
+		<loc>https://www.scantrust.com/e-label-features/</loc>
 		<lastmod>2023-06-27T08:03:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/e-label-pricing/</loc>
+		<loc>https://www.scantrust.com/e-label-pricing/</loc>
 		<lastmod>2023-07-05T10:17:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy-policy/</loc>
+		<loc>https://www.scantrust.com/privacy-policy/</loc>
 		<lastmod>2023-08-01T10:35:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/secure-qr-codes/</loc>
+		<loc>https://www.scantrust.com/secure-qr-codes/</loc>
 		<lastmod>2023-08-14T10:35:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/job-postings/</loc>
+		<loc>https://www.scantrust.com/job-postings/</loc>
 		<lastmod>2023-08-17T09:07:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/request-a-demo/</loc>
+		<loc>https://www.scantrust.com/request-a-demo/</loc>
 		<lastmod>2023-08-24T09:11:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/anti-counterfeit-solutions/</loc>
+		<loc>https://www.scantrust.com/anti-counterfeit-solutions/</loc>
 		<lastmod>2023-09-07T08:50:53+00:00</lastmod>
 	</url>
 </urlset>
